@@ -1,0 +1,16 @@
+PODS:
+  - downPopMenu (0.1.0)
+
+DEPENDENCIES:
+  - downPopMenu (from `../`)
+
+EXTERNAL SOURCES:
+  downPopMenu:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  downPopMenu: 50e26950296b8d3a0210c4aa03ad9087c836e5df
+
+PODFILE CHECKSUM: 73ce1ab5e520eccba9f17456119abd6f78ce2fa4
+
+COCOAPODS: 1.11.2

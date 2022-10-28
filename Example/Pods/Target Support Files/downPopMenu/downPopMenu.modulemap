@@ -1,0 +1,6 @@
+framework module downPopMenu {
+  umbrella header "downPopMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
